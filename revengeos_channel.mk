@@ -39,4 +39,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := motorola/channel_retail/channel:9/PPY29.148-140/687ae:user/release-keys
 
 # Revenge
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 720
