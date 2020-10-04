@@ -1,0 +1,3 @@
+add_lunch_combo bootleg_channel-userdebug
+add_lunch_combobootleg_channel-eng
+add_lunch_combo bootleg_channel-user
