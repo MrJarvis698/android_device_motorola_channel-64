@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_channel.mk
+    $(LOCAL_DIR)/bootleg_channel.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_channel-eng \
-    lineage_channel-user \
-    lineage_channel-userdebug
+    bootleg_channel-eng \
+    bootleg_channel-user \
+    bootleg_channel-userdebug
