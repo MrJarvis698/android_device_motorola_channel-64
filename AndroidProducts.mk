@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017-2020 The LineageOS Project
+# Copyright (C) 2017-2020 The duOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_channel.mk
+    $(LOCAL_DIR)/du_channel.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_channel-eng \
-    lineage_channel-user \
-    lineage_channel-userdebug
+    du_channel-eng \
+    du_channel-user \
+    du_channel-userdebug
